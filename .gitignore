@@ -6,6 +6,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+quickstart.py
+
 # C extensions
 *.so
 
@@ -91,8 +93,17 @@ ENV/
 # Rope project settings
 .ropeproject
 
-# OS Files
+# Mac files
 .DS_Store
 
-# Log Files
-logs/*
+# Storage
+instapy.db
+logs/
+
+# Editors
+.idea
+.vscode
+
+# pytest
+.pytest_cache/
+tests/logs
