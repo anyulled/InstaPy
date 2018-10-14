@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 echo "InstaPy MacOS Setup"
 echo =============================================================================================
 echo "Downloading Chrome Driver..."
